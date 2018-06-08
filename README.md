@@ -1,1 +1,2 @@
-# patterns
+# Pattern library for interactive content
+This pattern library is a work in progress...
